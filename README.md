@@ -6,13 +6,13 @@ Due to company confidentiality and non-disclosure policies, the **source code ca
 This repository instead provides an overview of the application's **features, architecture, design decisions, and UI screenshots**.
 
 The goal is to demonstrate the **system design, modular architecture, and engineering approach** used while building the application.
-# ProductivitySuiteApp
 
-A modular **iOS productivity and mindfulness application** built using **SwiftUI and MVVM architecture**.
+---
+
+A modular **iOS productivity and mindfulness application** built using **SwiftUI and MVVM architecture**.  
 The app combines multiple productivity and mental-wellness tools into a single unified experience to help users stay focused, calm, and consistent throughout their day.
 
 The goal of this project was to design a **clean, extensible productivity ecosystem** rather than a single isolated feature.
-
 ---
 
 # Overview
